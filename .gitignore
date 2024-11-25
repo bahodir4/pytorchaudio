@@ -1,0 +1,44 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging files
+*.log
+*.out
+*.err
+
+# Test coverage files
+.coverage
+*.cover
+coverage.xml
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
